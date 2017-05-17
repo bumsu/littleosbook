@@ -1,11 +1,11 @@
 CSS = book.css
 HTML_TEMPLATE = template.html
 TEX_HEADER = header.tex
-CHAPTERS = title.txt introduction.md environment_and_booting.md \
-		   getting_to_c.md output.md segmentation.md interrupts.md \
-		   the_road_to_user_mode.md virtual_memory.md \
-		   paging.md page_frame_allocation.md user_mode.md file_systems.md \
-		   syscalls.md scheduling.md \
+CHAPTERS = title.txt 1.introduction.md 2.environment_and_booting.md \
+		   3.getting_to_c.md 4.output.md 5.segmentation.md 6.interrupts.md \
+		   7.the_road_to_user_mode.md 8.virtual_memory.md \
+		   9.paging.md 10.page_frame_allocation.md 11.user_mode.md 12.file_systems.md \
+		   14.syscalls.md 14.scheduling.md \
 		   references.md
 BIB = bibliography.bib
 CITATION = citation_style.csl
